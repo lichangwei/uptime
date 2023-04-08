@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaiaworks.cn.ico",
     "slug": "gaiaworks",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1127,
-    "timeDay": 1099,
-    "timeWeek": 1479,
-    "timeMonth": 1127,
-    "timeYear": 1127,
-    "dailyMinutesDown": {
-      "2023-04-07": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1114,
+    "timeDay": 838,
+    "timeWeek": 985,
+    "timeMonth": 1114,
+    "timeYear": 1114,
+    "dailyMinutesDown": {}
   }
 ]

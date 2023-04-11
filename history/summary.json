@@ -4,17 +4,19 @@
     "url": "https://www.gaiaworks.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gaiaworks.cn.ico",
     "slug": "gaiaworks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 1215,
-    "timeWeek": 990,
-    "timeMonth": 1112,
-    "timeYear": 1112,
-    "dailyMinutesDown": {}
+    "time": 1092,
+    "timeDay": 866,
+    "timeWeek": 937,
+    "timeMonth": 1092,
+    "timeYear": 1092,
+    "dailyMinutesDown": {
+      "2023-04-11": 0
+    }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://www.gaiaworks.cn
-status: up
-code: 200
-responseTime: 1215
-lastUpdated: 2023-04-10T23:10:21.390Z
+status: down
+code: 502
+responseTime: 516
+lastUpdated: 2023-04-11T10:40:34.423Z
 startTime: Wed Mar 15 2023 11:40:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

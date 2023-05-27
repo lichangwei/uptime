@@ -4,7 +4,7 @@
     "url": "https://www.gaiaworks.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.gaiaworks.cn.ico",
     "slug": "gaiaworks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 889,
     "timeYear": 992,
     "dailyMinutesDown": {
+      "2023-05-27": 0,
       "2023-04-26": 18
     }
   }

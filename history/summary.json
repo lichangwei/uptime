@@ -6,9 +6,9 @@
     "slug": "gaiaworks",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1289,
     "timeDay": 18439,
@@ -16,7 +16,6 @@
     "timeMonth": 3634,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2024-04-16": 11,
       "2023-07-14": 23,
       "2023-06-13": 16,
       "2023-04-26": 18

@@ -6,22 +6,21 @@
     "slug": "gaiaworks",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.81%",
     "time": 1399,
-    "timeDay": 813,
-    "timeWeek": 934,
-    "timeMonth": 1130,
-    "timeYear": 1384,
+    "timeDay": 1958,
+    "timeWeek": 1035,
+    "timeMonth": 1136,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2025-08-26": 51,
       "2025-08-21": 56,
       "2025-01-22": 174,
       "2025-01-21": 663,
-      "2025-01-16": 47,
-      "2024-08-28": 18
+      "2025-01-16": 47
     }
   }
 ]
